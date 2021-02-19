@@ -72,14 +72,14 @@ R2 is found to be around 22k ohm to get 1.2 volt at output.
 
 ## Start up current 
 
-![](images/ptat_vs_ctat_v1.PNG)
+![](images/Start_up_current.PNG)
 
 
 ## Work Remaining
 
 Have to resize transistors as the temperature and voltage coefficient of VBGR are not very small./
 Have to Include Enable circuit./
-Have To try cascoded mirror to make VBGR to be constant across all PVT corners
+Have To try cascoded mirror to make VBGR to be constant across all PVT corners/
 Also Inlcude a trimming resistor for dealing with process variations.
 
 
